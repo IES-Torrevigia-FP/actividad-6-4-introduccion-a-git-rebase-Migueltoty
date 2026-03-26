@@ -1,0 +1,14 @@
+git log --oneline --all
+4dc9c4f (HEAD -> feature-notas) Modifica notas en feature-notas
+c84afed Añade notas iniciales de la funcionalidad
+6e9090e (main) Crea notas en main
+9c5c1b6 Actualiza changelog a v1.1
+9439485 Crea changelog con versión inicial
+0f653b3 (origin/main, origin/HEAD) add deadline
+20f2714 Initial commit
+
+
+para resolver el conflicto solo he usado los comando que me ha dado el profesor y borrar lo que sobraba en el archivo de notas
+
+
+pues yo lo usaria si en algun momento me equivoco y quiero deshacer el rebase

@@ -1,0 +1,8 @@
+git log --oneline --all
+d15c784 (HEAD -> feature-notas) Añade notas iniciales de la funcionalidad
+9c5c1b6 (main) Actualiza changelog a v1.1
+9439485 Crea changelog con versión inicial
+0f653b3 (origin/main, origin/HEAD) add deadline
+20f2714 Initial commit
+
+reescribe la historia moviendo la base de la rama actual hacia la punta de otra rama haciendo que el historial parezca lineal. Los commits originales se reemplazan por commits nuevos con hashes distintos, eliminando los intermedios y creando un registro de cambios secuencial
